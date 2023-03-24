@@ -1,0 +1,24 @@
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\bin\Debug\Image Viewer.exe.config
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\bin\Debug\Image Viewer.exe
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\bin\Debug\Image Viewer.pdb
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.csproj.AssemblyReference.cache
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image_Viewer.Form1.resources
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image_Viewer.Properties.Resources.resources
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.csproj.GenerateResource.cache
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.exe
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.pdb
+C:\Users\Wiwka\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image_Viewer.AboutForm.resources
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\bin\Debug\Image Viewer.exe.config
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\bin\Debug\Image Viewer.exe
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\bin\Debug\Image Viewer.pdb
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image_Viewer.AboutForm.resources
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image_Viewer.Form1.resources
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image_Viewer.Properties.Resources.resources
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.csproj.GenerateResource.cache
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.exe
+C:\Users\sanch\Desktop\Project\Main Form\Image Viewer\obj\Debug\Image Viewer.pdb
